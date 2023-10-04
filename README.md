@@ -25,7 +25,7 @@ En cuanto a las características personales soy:
 * COD
 * FIFA
 
-2. Me gustan mucho los animales y aunque en la foto parezca muy amigable el gato, soy mas de perros.
+2. Me gustan mucho los animales y aunque en la foto parezca muy amigable el gato, soy mas de perros.  
    ![Gato](http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png)
 3. Tambien me gusta salir de fiesta con mi amigos.
 
@@ -36,3 +36,11 @@ En cuanto a las características personales soy:
 Eso dicen pero sin dinero no se come. Mi mayor meta es trabajar en la informática, para por lo menos no tener que trabajar y estar amargado.
 Cuando estuve en el _Grado Medio SMR_ mis prácticas fueron en una empresa de arreglar dispositivos móviles, pc y cualquier cosa. La tienda se llamaba **Tu accesorio**. Me lo pase como nunca alli y por eso pienso, que la informática es lo mío. 
 
+### Ser programador informático
+El verano previo al año que estuve haciendo el año de DAW empecé a aprender por mi cuenta a como programar. Aprendi:
+* _HTML_
+* _CSS_
+* _PHP_
+* _JS_
+
+Incluso tengo muchas páginas diseñadas, que si bien no son la forma mas profesional (**o eso creo**), sin duda descubri algo que me gustaba mucho. En mis tiempos libres suelo intentar seguir aprendiendo y **profesionalizando* mi código. Asi que, sin duda, seria una de mis metas.
