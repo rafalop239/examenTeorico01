@@ -2,11 +2,11 @@
 Examen Teórico Lenguaje Marcas 2023
 
 ## ¿Quién soy?  
-Soy Rafael López Serrano, twngo 22 años y soy alumno del Grado Superior de Administracion de Sistemas Informáticos en Red en el colegio **C.E.S. Ramón y Cajal**. Vivo en Córdoba pero, soy de un pueblo que se llama _Villafranca de Córdoba_.
+Soy Rafael López Serrano, tengo 22 años y soy alumno del Grado Superior de Administracion de Sistemas Informáticos en Red en el colegio **C.E.S. Ramón y Cajal**. Vivo en Córdoba pero, soy de un pueblo que se llama _Villafranca de Córdoba_.
 
 ## Mis habilidades
 En cuanto a los estudios tengo lo siguiente:
-* Grado Medio en Sistemas Microinformáticos en Red 
+* Grado Medio en Sistemas Microinformáticos en Red ([I.E.S. Medina Azahara](https://www.iesmedinaazahara.es/)
 * Grado Superior en Desarrollo de Aplicaciones Web (_Solo tengo el primer año, me sali a mitad del segundo por problemas personales_)
 
 
@@ -45,3 +45,6 @@ El verano previo al año que estuve haciendo el año de DAW empecé a aprender p
 * _JS_
 
 Incluso tengo muchas páginas diseñadas, que si bien no son la forma mas profesional (**o eso creo**), sin duda descubri algo que me gustaba mucho. En mis tiempos libres suelo intentar seguir aprendiendo y **profesionalizando** mi código. Asi que, sin duda, seria una de mis metas.
+
+### Administrador de redes
+Esto fue un poco el descarte, porque en aplicaciones multiplataforma no habia hueco(**Mentira**..._o no_), asi que aqui estamos intentando sacar el ciclo y dedicarme a esto.
