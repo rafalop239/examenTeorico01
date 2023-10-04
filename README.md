@@ -28,6 +28,7 @@ En cuanto a las características personales soy:
 2. Me gustan mucho los animales y aunque en la foto parezca muy amigable el gato, soy mas de perros.  
    ![Gato](http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png)
 3. Tambien me gusta salir de fiesta con mi amigos.
+4. Si he pasado hasta por tres grados de informática, cabe recalcar que me gusta la **INFORMÁTICA**
 
 ## Metas
 
