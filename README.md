@@ -6,7 +6,7 @@ Soy Rafael López Serrano, tengo 22 años y soy alumno del Grado Superior de Adm
 
 ## Mis habilidades
 En cuanto a los estudios tengo lo siguiente:
-* Grado Medio en Sistemas Microinformáticos en Red ([I.E.S. Medina Azahara](https://www.iesmedinaazahara.es/)
+* Grado Medio en Sistemas Microinformáticos en Red ([I.E.S. Medina Azahara](https://www.iesmedinaazahara.es/))
 * Grado Superior en Desarrollo de Aplicaciones Web (_Solo tengo el primer año, me sali a mitad del segundo por problemas personales_)
 
 
