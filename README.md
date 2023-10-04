@@ -20,7 +20,7 @@ En cuanto a las características personales soy:
 ## Gustos
 
 1. Suelo jugar a videojuegos como pueden ser:
-* [Valorant](www.playvalorant.com)
+* [Valorant](https://playvalorant.com/es-es/)
 * GTA
 * COD
 * FIFA
