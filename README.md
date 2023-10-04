@@ -46,7 +46,9 @@ El verano previo al año que estuve haciendo el año de DAW empecé a aprender p
 * _JS_
 
 Incluso tengo muchas páginas diseñadas, que si bien no son la forma mas profesional (**o eso creo**), sin duda descubri algo que me gustaba mucho. En mis tiempos libres suelo intentar seguir aprendiendo y **profesionalizando** mi código. Asi que, sin duda, seria una de mis metas.  
-Ya sé que si quiero ser programador de aplicaciones móviles, no necesitaré demasiado los lengujaes aprendidos, pero el _conocimiento es poder_.
+Ya sé que si quiero ser programador de aplicaciones móviles, no necesitaré demasiado los lenguajes aprendidos, pero el _conocimiento es poder_.
 
 ### Administrador de redes
 Esto fue un poco el descarte, porque en aplicaciones multiplataforma no habia hueco (**Mentira**... _o no_), asi que aqui estamos intentando sacar el ciclo y dedicarme a esto.
+
+> No tengas en cuenta si tengo faltas de ortografía, yo y las comas no nos llevamos muy bien :)
