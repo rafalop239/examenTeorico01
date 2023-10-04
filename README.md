@@ -29,10 +29,11 @@ En cuanto a las características personales soy:
    ![Gato](http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png)
 3. Tambien me gusta salir de fiesta con mi amigos.
 4. Si he pasado hasta por tres grados de informática, cabe recalcar que me gusta la **INFORMÁTICA**
+5. El futbol, aqui no hay discursion. El mejor equipo es el **_REAL MADRID_**
 
 ## Metas
 
-> "El dinero no da la felicidad"
+> "El dinero no da la felicidad" - _ni idea quien la dijo, pero la dice todo el mundo_
 
 Eso dicen pero sin dinero no se come. Mi mayor meta es trabajar en la informática, para por lo menos no tener que trabajar y estar amargado.
 Cuando estuve en el _Grado Medio SMR_ mis prácticas fueron en una empresa de arreglar dispositivos móviles, pc y cualquier cosa. La tienda se llamaba **Tu accesorio**. Me lo pase como nunca alli y por eso pienso, que la informática es lo mío. 
@@ -47,4 +48,4 @@ El verano previo al año que estuve haciendo el año de DAW empecé a aprender p
 Incluso tengo muchas páginas diseñadas, que si bien no son la forma mas profesional (**o eso creo**), sin duda descubri algo que me gustaba mucho. En mis tiempos libres suelo intentar seguir aprendiendo y **profesionalizando** mi código. Asi que, sin duda, seria una de mis metas.
 
 ### Administrador de redes
-Esto fue un poco el descarte, porque en aplicaciones multiplataforma no habia hueco(**Mentira**..._o no_), asi que aqui estamos intentando sacar el ciclo y dedicarme a esto.
+Esto fue un poco el descarte, porque en aplicaciones multiplataforma no habia hueco (**Mentira**... _o no_), asi que aqui estamos intentando sacar el ciclo y dedicarme a esto.
