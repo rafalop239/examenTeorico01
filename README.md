@@ -1,7 +1,7 @@
 # Examen Teorico
 Examen Teórico Lenguaje Marcas 2023
 
-## ¿Quién soy?  
+## <span color="blue">¿Quién soy?  </span>
 Soy Rafael López Serrano, tengo 22 años y soy alumno del Grado Superior de Administracion de Sistemas Informáticos en Red en el colegio **C.E.S. Ramón y Cajal**. Vivo en Córdoba pero, soy de un pueblo que se llama _Villafranca de Córdoba_.
 
 ## Mis habilidades
